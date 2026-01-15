@@ -172,7 +172,7 @@
                             
                             <div class="bg-gradient-to-r from-purple-500 to-indigo-600 rounded-xl p-6 text-white">
                                 <div class="text-sm opacity-90 mb-2">Total Spent</div>
-                                <div class="text-4xl font-bold">$3,247.85</div>
+                                <div class="text-4xl font-bold">Ksh3,247.85</div>
                                 <div class="text-sm mt-2 flex items-center">
                                     <span class="text-green-300">↓ 12% from last month</span>
                                 </div>
@@ -185,22 +185,22 @@
                                 </div>
                                 <div class="bg-blue-50 rounded-lg p-4">
                                     <div class="text-xs text-gray-600 mb-1">Transport</div>
-                                    <div class="text-xl font-bold text-gray-800">$234</div>
+                                    <div class="text-xl font-bold text-gray-800">Ksh234</div>
                                 </div>
                             </div>
 
                             <div class="space-y-2">
                                 <div class="flex items-center justify-between text-sm">
-                                    <span class="text-gray-600">🍕 Pizza Night</span>
-                                    <span class="font-semibold text-gray-800">-$45.00</span>
+                                    <span class="text-gray-600"> Pizza Night</span>
+                                    <span class="font-semibold text-gray-800">Ksh450.00</span>
                                 </div>
                                 <div class="flex items-center justify-between text-sm">
-                                    <span class="text-gray-600">⛽ Gas Station</span>
-                                    <span class="font-semibold text-gray-800">-$60.00</span>
+                                    <span class="text-gray-600">Gas Station</span>
+                                    <span class="font-semibold text-gray-800">Ksh600.00</span>
                                 </div>
                                 <div class="flex items-center justify-between text-sm">
-                                    <span class="text-gray-600">☕ Coffee Shop</span>
-                                    <span class="font-semibold text-gray-800">-$12.50</span>
+                                    <span class="text-gray-600">Coffee Shop</span>
+                                    <span class="font-semibold text-gray-800">Ksh1200.50</span>
                                 </div>
                             </div>
                         </div>
