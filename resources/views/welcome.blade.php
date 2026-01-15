@@ -120,7 +120,7 @@
                 <div class="text-white space-y-8">
                     <div class="animate-fade-in-up" style="animation-delay: 0.1s; opacity: 0;">
                         <span class="inline-block bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium mb-4">
-                            ⚡ Powered by TALL Stack
+                          Powered by TALL Stack
                         </span>
                         <h1 class="text-5xl sm:text-6xl font-bold leading-tight">
                             Take Control of Your
@@ -148,7 +148,7 @@
                         </div>
                         <div class="h-12 w-px bg-purple-300"></div>
                         <div>
-                            <div class="text-3xl font-bold">$2M+</div>
+                            <div class="text-3xl font-bold">KSH2M+</div>
                             <div class="text-purple-200 text-sm">Tracked</div>
                         </div>
                         <div class="h-12 w-px bg-purple-300"></div>
