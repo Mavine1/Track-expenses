@@ -181,7 +181,7 @@
                             <div class="grid grid-cols-2 gap-4">
                                 <div class="bg-red-50 rounded-lg p-4">
                                     <div class="text-xs text-gray-600 mb-1">Food</div>
-                                    <div class="text-xl font-bold text-gray-800">$847</div>
+                                    <div class="text-xl font-bold text-gray-800">KSH847</div>
                                 </div>
                                 <div class="bg-blue-50 rounded-lg p-4">
                                     <div class="text-xs text-gray-600 mb-1">Transport</div>
