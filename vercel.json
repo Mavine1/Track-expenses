@@ -23,6 +23,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "https://yourprojectdomain.com",
+        "APP_KEY": "base64:YOUR_APP_KEY_HERE",
         
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
@@ -33,6 +34,13 @@
 
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
-        "SESSION_DRIVER": "cookie"
+        "SESSION_DRIVER": "cookie",
+        
+        "DB_CONNECTION": "mysql",
+        "DB_HOST": "srveln.h.filess.io",
+        "DB_PORT": "3306",
+        "DB_DATABASE": "Expenses_lowerbadly",
+        "DB_USERNAME": "Expenses_lowerbadly",
+        "DB_PASSWORD": "28ec6ddf5727878dea5fd8c8fac01766a68c4086"
     }
 }
